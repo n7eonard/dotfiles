@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
+	email = n7eonard@gmail.com
 	name = Nicolas LEONARD
